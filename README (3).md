@@ -23,8 +23,6 @@ The form includes fields for email and password, a checkbox (e.g., terms & condi
 
 🔒 Password input field
 
-☑️ Checkbox option (e.g., “I agree to the terms and conditions”)
-
 ❌ Cancel button
 
 ✅ Sign Up button
